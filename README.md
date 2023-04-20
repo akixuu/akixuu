@@ -2,7 +2,7 @@
   <a href="https://github.com/akixuu">
     <img src="./banner.png" alt="banner" width="160" height="160">
   </a>
-  <h1 align="center">Hello :)</h1>
+  <!-- <h1 align="center">Hello :)</h1> -->
 </p>
 
 <sub> <h3>Find me at... </h3>
