@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/akixuu">
     <img src="./banner.png" alt="banner">
+    <!-- Image credit: argodeon.tumblr.com -->
   </a>
   <!-- <h1 align="center">Hello :)</h1> -->
 </p>
