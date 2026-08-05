@@ -20,14 +20,12 @@
 
 When I'm not coding, you'll probably find me reading, touching grass, or thinking about my next project idea.
 
----
-
 ## 🚀 Currently Building
 
-🌆 Vancity Resources: A community resource discovery platform using Vancouver Open Data to help people find shelters, food resources, public services, and community support
-- Stack: `TypeScript` `React` `Node.js` `PostgreSQL` `Open Data API`
-
----
+| Project | Description | Tech |
+|---|---|---|
+| 🌆 Vancity Resources | Community resource discovery platform using Vancouver Open Data | TypeScript · React · Node.js · PostgreSQL |
+| ♟️ LucenaChess | Chess project exploring game logic and AI | TypeScript · React · Node.js · PostgreSQL |
 
 ## 📊 GitHub Activity
 
