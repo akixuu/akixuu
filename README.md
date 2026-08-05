@@ -16,8 +16,7 @@
 
 🏫 2nd Year Computer Science @ **University of British Columbia**  
 🧩 Currently learning about software systems, databases, and emergent systems  
-💻 Solving problems with code  
-🤝 Open to collab!  
+💻 Solving problems and building tools that connect people with code  
 
 When I'm not coding, you'll probably find me reading, touching grass, or thinking about my next project idea.
 
@@ -39,7 +38,7 @@ When I'm not coding, you'll probably find me reading, touching grass, or thinkin
 
 ---
 
-## ☕ Let's Connect
+## ✌️ Open to connect!  
 
 📧 **akixuu@student.ubc.ca**  
 💬 Discord: **@seepleyhose**
