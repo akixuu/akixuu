@@ -27,12 +27,6 @@ When I'm not coding, you'll probably find me reading, touching grass, or thinkin
 | 🌆 Vancity Resources | Community resource discovery platform using Vancouver Open Data | TypeScript · React · Node.js · PostgreSQL |
 | ♟️ LucenaChess | Chess analysis tool exploring game logic and player metrics | TypeScript · React · Node.js · PostgreSQL |
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akixuu&show_icons=true&include_all_commits=true&theme=transparent)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akixuu&theme=github-compact)
-
 ---
 
 ## ✌️ Open to connect!  
