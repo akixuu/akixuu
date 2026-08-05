@@ -1,6 +1,6 @@
-# Hi, I'm Aki 👋
-
 <div align="center">
+
+# Hi, I'm Aki 👋
 
 ### 🧩 Exploring systems, building things, touching grass 🌱
 
