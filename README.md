@@ -25,8 +25,7 @@ When I'm not coding, you'll probably find me reading, touching grass, or thinkin
 ## 🚀 Currently Building
 
 🌆 Vancity Resources: A community resource discovery platform using Vancouver Open Data to help people find shelters, food resources, public services, and community support
-**Stack:**  
-`TypeScript` `React` `Node.js` `PostgreSQL` `Open Data API`
+- Stack: `TypeScript` `React` `Node.js` `PostgreSQL` `Open Data API`
 
 ---
 
