@@ -15,11 +15,11 @@
 ## 👋 About Me
 
 🏫 2nd Year Computer Science @ **University of British Columbia**  
-🧩 Exploring emergent systems
+🧩 Exploring emergent systems  
 💻 Solving problems with code  
-🤝 Open to network  
+🤝 Open to collab  
 
-When I'm not coding, you'll probably find me reading, touching, or thinking about my next project idea.
+When I'm not coding, you'll probably find me reading, touching grass, or thinking building my next project idea.
 
 ---
 
