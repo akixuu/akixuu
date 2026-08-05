@@ -20,6 +20,8 @@
 
 When I'm not coding, you'll probably find me reading, touching grass, or thinking about my next project idea.
 
+You can see a full list of my projects and experiences on my [website](https://akixuu.github.io/projects/). 
+
 ## 🚀 Currently Building
 
 | Project | Description | Tech |
