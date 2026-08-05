@@ -25,7 +25,7 @@ When I'm not coding, you'll probably find me reading, touching grass, or thinkin
 | Project | Description | Tech |
 |---|---|---|
 | 🌆 Vancity Resources | Community resource discovery platform using Vancouver Open Data | TypeScript · React · Node.js · PostgreSQL |
-| ♟️ LucenaChess | Chess project exploring game logic and AI | TypeScript · React · Node.js · PostgreSQL |
+| ♟️ LucenaChess | Chess analysis tool exploring game logic and player metrics | TypeScript · React · Node.js · PostgreSQL |
 
 ## 📊 GitHub Activity
 
