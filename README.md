@@ -5,7 +5,7 @@
 ### 🧩 Exploring systems, building things, touching grass 🌱
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akixuu.github.io-blue?style=flat-square)](https://akixuu.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aki%20Xu-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aki%20Xu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akixuu)
 [![Email](https://img.shields.io/badge/Email-akixuu%40student.ubc.ca-red?style=flat-square&logo=gmail)](mailto:akixuu@student.ubc.ca)
 
 </div>
