@@ -26,7 +26,7 @@ You can see a full list of my projects and experiences on my [website](https://a
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏙️ Vancity Resources | Community resource discovery platform using Vancouver Open Data | TypeScript · React · Node.js · PostgreSQL |
+| 🏙️ Vancity Resources | Community resource discovery platform using Vancouver Open Data | React · Node.js · PostgreSQL |
 | 🌠 Ouin | Third spaces on the web | React · Node.js · Socket.io · Rapier · Supabase |
 | ♟️ LucenaChess | Chess analysis tool exploring game logic and player metrics | TypeScript · React · Node.js · PostgreSQL |
 
