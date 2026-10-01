@@ -1,5 +1,3 @@
----
-
 ## About Me
 
 🏫 2nd Year Computer Science @ University of British Columbia  
