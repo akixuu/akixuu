@@ -1,6 +1,6 @@
 ## About Me
 
-🏫 2nd Year Computer Science @ University of British Columbia  
+🏫 Computer Science @ University of British Columbia  
 🧩 Currently learning about software systems, databases, and emergent systems  
 💻 Solving problems and building tools that connect people with code  
 
