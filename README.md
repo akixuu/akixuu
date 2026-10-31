@@ -8,13 +8,6 @@ When I'm not coding, you'll probably find me reading, touching grass, or thinkin
 
 You can see a full list of my projects and experiences on my [website](https://akixuu.github.io/projects/). 
 
-## Currently Building
-
-| Project | Description | Tech |
-|---|---|---|
-| 🌠 Ouin | Third spaces on the web | React · Node.js · Socket.io · Rapier · Supabase |
-| ♟️ LucenaChess | Chess analysis tool exploring game logic and player metrics | TypeScript · React · Node.js · PostgreSQL |
-
 ---
 
 ## Open to connect! ✌️
