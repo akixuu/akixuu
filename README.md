@@ -12,6 +12,6 @@ You can see a full list of my projects and experiences on my [website](https://a
 
 ## Open to connect! ✌️
 
-📧 **akixuu@student.ubc.ca**
+📧 **akixuu@student.ubc.ca** <br>
 ℹ️ Linkedin: [in/akixuu](https://linkedin.com/in/akixuu) <br>
 💬 Discord: **@seepleyhose**
